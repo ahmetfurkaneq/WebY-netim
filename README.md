@@ -14,7 +14,6 @@ It provides full **CRUD operations** for departments stored in a SQL Server data
 - ✓ Admin panel with sidebar navigation  
 - ✓ Entity Framework Core (Code-First)  
 - ✓ SQL Server integration  
-- Upcoming: Employee module (data model already prepared)
 
 ---
 
