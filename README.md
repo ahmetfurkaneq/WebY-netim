@@ -63,7 +63,7 @@ Handles all department operations:
 | sehir    | VARCHAR(50)   | City                   |
 | departid | int           | Department ID (future FK) |
 
-> Note: The `personel` model is not yet connected to UI or controllers, but ready for future development.
+
 
 ---
 
